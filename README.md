@@ -1,2 +1,2 @@
 # ChatApplication
-bugs would be founded so try angain
+bugs would be founded so try again 
